@@ -3,10 +3,10 @@ main:
   - title: "하찬균 소개"
     url: /hello/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "갑순이 소개"
+  - title: "민태홍 소개"
     url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "노준석 소개"
+    url: /hello3/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
